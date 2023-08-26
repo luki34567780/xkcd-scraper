@@ -1,0 +1,17 @@
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\xkcd-scraper.exe
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\xkcd-scraper.deps.json
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\xkcd-scraper.runtimeconfig.json
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\xkcd-scraper.dll
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\xkcd-scraper.pdb
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.AssemblyInfoInputs.cache
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.AssemblyInfo.cs
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.csproj.CopyComplete
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.dll
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\refint\xkcd-scraper.dll
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.pdb
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\xkcd-scraper.genruntimeconfig.cache
+C:\Users\Lukas\source\repos\xkcd-scraper\xkcd-scraper\obj\Release\net7.0\ref\xkcd-scraper.dll
